@@ -1,0 +1,5 @@
+node_modules
+# 获取最新版本号
+# npm version patch  
+# 提交代码
+# npm publish

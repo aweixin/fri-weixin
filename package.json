@@ -1,0 +1,37 @@
+{
+      "name": "fri-weixin",
+      "version": "0.0.1",
+      "description": "微信工具库",
+      "main": "dist/index.js",
+      "scripts": {
+            "dev": "tsc -w",
+            "build": "tsc"
+      },
+      "files": [
+            "dist"
+      ],
+      "keywords": [
+            "工具库",
+            "上传类",
+            "请求类",
+            "微信小程序",
+            "引用库",
+            "typescript",
+            "utils",
+            "weixin",
+            "upload",
+            "Server"
+      ],
+      "homepage": "https://github.com/aweixin/fri-weixin",
+      "author": "Mr.xu",
+      "license": "ISC",
+      "dependencies": {
+            "crypto-js": "^4.2.0",
+            "js-base64": "^3.7.7",
+            "miniprogram-api-typings": "^3.12.2",
+            "moment": "^2.30.1"
+      },
+      "devDependencies": {
+            "@types/crypto-js": "^4.2.2"
+      }
+}
